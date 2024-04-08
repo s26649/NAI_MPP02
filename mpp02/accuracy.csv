@@ -1,0 +1,36 @@
+Wyniki klasyfikacji:
+Etykieta rzeczywista; Przewidywana etykieta
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+
+Ogolna dokladnosc: 100,00%
+Dokladnosc dla klasy 'Iris-setosa': 100,00%
+Dokladnosc dla klasy 'Iris-versicolor': 100,00%
