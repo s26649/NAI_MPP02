@@ -1,36 +1,190 @@
 Wyniki klasyfikacji:
 Etykieta rzeczywista; Przewidywana etykieta
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
 Iris-setosa; Iris-setosa
 Iris-setosa; Iris-setosa
 Iris-setosa; Iris-setosa
 Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+
+Ogolna dokladnosc: 50,00%
+Dokladnosc dla klasy 'Iris-setosa': 100,00%
+Dokladnosc dla klasy 'Iris-versicolor': 0,00%
+
+
+Wyniki klasyfikacji:
+Etykieta rzeczywista; Przewidywana etykieta
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-setosa
+Iris-setosa; Iris-setosa
+
+Ogolna dokladnosc: 50,00%
+Dokladnosc dla klasy 'Iris-setosa': 100,00%
+Dokladnosc dla klasy 'Iris-versicolor': 0,00%
+
+
+Wyniki klasyfikacji:
+Etykieta rzeczywista; Przewidywana etykieta
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-versicolor
+
+Ogolna dokladnosc: 83,33%
+Dokladnosc dla klasy 'Iris-setosa': 66,67%
+Dokladnosc dla klasy 'Iris-versicolor': 100,00%
+
+
+Wyniki klasyfikacji:
+Etykieta rzeczywista; Przewidywana etykieta
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
 Iris-setosa; Iris-setosa
 Iris-versicolor; Iris-versicolor
 Iris-setosa; Iris-setosa
 Iris-setosa; Iris-setosa
 Iris-setosa; Iris-setosa
 Iris-setosa; Iris-setosa
-Iris-setosa; Iris-setosa
-Iris-versicolor; Iris-versicolor
-Iris-setosa; Iris-setosa
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-setosa; Iris-setosa
-Iris-setosa; Iris-setosa
-Iris-versicolor; Iris-versicolor
-Iris-setosa; Iris-setosa
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
-Iris-versicolor; Iris-versicolor
 Iris-versicolor; Iris-versicolor
 Iris-setosa; Iris-setosa
 
-Ogolna dokladnosc: 100,00%
-Dokladnosc dla klasy 'Iris-setosa': 100,00%
+Ogolna dokladnosc: 96,67%
+Dokladnosc dla klasy 'Iris-setosa': 93,33%
 Dokladnosc dla klasy 'Iris-versicolor': 100,00%
+
+
+Wyniki klasyfikacji:
+Etykieta rzeczywista; Przewidywana etykieta
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-setosa; Iris-setosa
+Iris-versicolor; Iris-versicolor
+Iris-setosa; Iris-setosa
+
+Ogolna dokladnosc: 96,67%
+Dokladnosc dla klasy 'Iris-setosa': 93,33%
+Dokladnosc dla klasy 'Iris-versicolor': 100,00%
+
+

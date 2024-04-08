@@ -103,6 +103,8 @@ public class Main {
         writer.printf("Ogolna dokladnosc: %.2f%%\n", accuracy);
         writer.printf("Dokladnosc dla klasy '%s': %.2f%%\n", trainer.classZeroLabel, accuracyClassZero);
         writer.printf("Dokladnosc dla klasy '%s': %.2f%%\n", trainer.classOneLabel, accuracyClassOne);
+        writer.println();
+        writer.println();
         writer.flush();
     }
 
